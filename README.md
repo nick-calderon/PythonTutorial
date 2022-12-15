@@ -1,2 +1,2 @@
-# PythonTutorial
-Snippets of python syntax
+#Python Notes
+
